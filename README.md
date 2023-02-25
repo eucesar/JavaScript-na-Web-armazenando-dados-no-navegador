@@ -11,7 +11,7 @@
 ## Download
 
 ```sh
-https://github.com/eucesar/JavaScript-Manipulating-the-DOM.git
+https://github.com/eucesar/JavaScript-on-Web-storing-data-in-browser.git
 ```
 
 ## Cesar
