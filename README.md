@@ -5,7 +5,7 @@
   <img align="center" alt="Cesar-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
 </p>
 
-> 🌱👨‍💻 - I learned how to make a page dynamic. I manipulated data, events and elements with JavaScript. I created the site using the Alura course.
+> 🌱👨‍💻 - Interact with the page and with LocalStorage, created objects with JavaScript, logs data to LocalStorage and Implemented WEB pages that store data. I created the site using the Alura course.
 
 
 ## Download
